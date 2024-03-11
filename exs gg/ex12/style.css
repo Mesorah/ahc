@@ -67,9 +67,9 @@ section {
 .joaninha p {
     margin: 0;
     color: white;
-    width: 500px;
-    height: 650px;
-    font-size: 40px;
+    width: 50vh;
+    height: 65vh;
+    font-size: 4vh;
     padding-left: 1vh;
     background-color: rgba(0, 0, 0, 0.644);
     line-height: 2.3em;
@@ -86,9 +86,9 @@ section {
 .livro p {
     margin: 0;
     color: white;
-    width: 500px;
-    height: 650px;
-    font-size: 40px;
+    width: 50vh;
+    height: 65vh;
+    font-size: 4vh;
     padding-left: 1vh;
     background-color: rgba(0, 0, 0, 0.459);
     line-height: 2.3em;
